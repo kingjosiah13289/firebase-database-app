@@ -1,0 +1,7 @@
+#Thu Apr 13 09:54:02 EAT 2023
+base.1=/home/emobilis/AndroidStudioProjects/morningfirebasedbapp/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex
+path.1=classes2.dex
+base.0=/home/emobilis/AndroidStudioProjects/morningfirebasedbapp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
